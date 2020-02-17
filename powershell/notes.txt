@@ -1,0 +1,1 @@
+Powershell is a object oriented language, wch means it contains objcts & properties.
